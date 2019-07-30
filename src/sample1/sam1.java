@@ -9,5 +9,7 @@ public class sam1 {
 		
 		System.out.println(" first time");
 		System.out.println(" fsecond time");
+		System.out.println(" fsecond time");
+		
 	}
 }

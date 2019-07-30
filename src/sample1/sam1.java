@@ -12,3 +12,5 @@ public class sam1 {
 		System.out.println(" fsecond time");
 	}
 }
+
+
